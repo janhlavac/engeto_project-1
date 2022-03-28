@@ -91,3 +91,4 @@ for i in range(0, nejdelsi_slovo - 1):
     print(f"{i + 1: >3}|{'*' * histogram[i]:<{nejvetsi_cetnost}}|{histogram[i]}")
 
 
+
